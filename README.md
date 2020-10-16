@@ -189,6 +189,3 @@ submitted. The `edit` and `update` functions are working properly!
 - How could we refactor this form code? You may notice that we have a form for the
   `new` and `edit` actions. Is there a better way of doing this?
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-edit-update-action-readme' title='Edit/Update Action'>Edit/Update Action</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-edit-update-action-readme'>Edit/Update Action</a> on Learn.co and start learning to code for free.</p>
